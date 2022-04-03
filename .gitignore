@@ -1,0 +1,5 @@
+# excepct all image files
+*.png
+*.jpg
+*/*.jpg
+*/*.png
